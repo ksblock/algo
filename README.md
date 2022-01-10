@@ -12,3 +12,10 @@
  cin.tie(NULL);
  ios::sync_with_stdio(false);
  ```
+ 
+ ### 22.01.10
+
+* 2800 괄호제거
+ DFS, c++ map 정리 후 재도전
+
+
